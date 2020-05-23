@@ -1,0 +1,18 @@
+C:\Users\hjkim\Desktop\kakao\kakao\kakao\bin\Debug\kakao.exe.config
+C:\Users\hjkim\Desktop\kakao\kakao\kakao\obj\Debug\kakao.csprojResolveAssemblyReference.cache
+C:\Users\hjkim\Desktop\kakao\kakao\kakao\obj\Debug\kakao.exe
+C:\Users\hjkim\Desktop\kakao\kakao\kakao\obj\Debug\kakao.pdb
+C:\Users\hjkim\Desktop\kakao\kakao\kakao\bin\Debug\kakao.exe
+C:\Users\hjkim\Desktop\kakao\kakao\kakao\bin\Debug\kakao.pdb
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\bin\Debug\kakao.exe.config
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\bin\Debug\kakao.exe
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\bin\Debug\kakao.pdb
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\obj\Debug\kakao.csprojAssemblyReference.cache
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\obj\Debug\kakao.exe
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\obj\Debug\kakao.pdb
+D:\04khj\01develop\01SENDTOKAKAO\01kakao\kakao\bin\Debug\kakao.exe.config
+D:\04khj\01develop\01SENDTOKAKAO\01kakao\kakao\bin\Debug\kakao.exe
+D:\04khj\01develop\01SENDTOKAKAO\01kakao\kakao\bin\Debug\kakao.pdb
+D:\04khj\01develop\01SENDTOKAKAO\01kakao\kakao\obj\Debug\kakao.csprojAssemblyReference.cache
+D:\04khj\01develop\01SENDTOKAKAO\01kakao\kakao\obj\Debug\kakao.exe
+D:\04khj\01develop\01SENDTOKAKAO\01kakao\kakao\obj\Debug\kakao.pdb

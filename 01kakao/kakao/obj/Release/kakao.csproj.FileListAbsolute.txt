@@ -1,0 +1,5 @@
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\bin\Release\kakao.exe.config
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\bin\Release\kakao.exe
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\bin\Release\kakao.pdb
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\obj\Release\kakao.exe
+C:\Users\kimgara\Documents\카카오톡 받은 파일\Desktop (2)\kakao\kakao\kakao\obj\Release\kakao.pdb
