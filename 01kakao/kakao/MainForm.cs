@@ -12,9 +12,30 @@ namespace kakao
 {
     public partial class MainForm : Form
     {
+        private static ProgressViewer cPv = new ProgressViewer();
+        private static SettingViewer cSv = new SettingViewer();
         public MainForm()
         {
             InitializeComponent();
+            cPv.Dock = DockStyle.Fill;
+            container.Panel2.Controls.Add(cPv);
+            
+        }
+
+        private void Click_Progress(object sender, EventArgs e)
+        {
+            container.Panel2.Controls.Clear();
+            cPv.Dock = DockStyle.Fill;
+            container.Panel2.Controls.Add(cPv);
+            
+        }
+
+        private void Click_setting(object sender, EventArgs e)
+        {
+            container.Panel2.Controls.Clear();
+            cSv.Dock = DockStyle.Fill;
+            container.Panel2.Controls.Add(cSv);
+           
         }
     }
 }

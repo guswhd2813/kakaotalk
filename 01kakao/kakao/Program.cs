@@ -16,7 +16,7 @@ namespace kakao
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
-
+            
 
             //while (true)
             //{
