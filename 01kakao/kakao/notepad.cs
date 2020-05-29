@@ -10,6 +10,7 @@ namespace kakao
 {
     class notepad
     {
+        
         string strNoteNum = RegistryManager.Instance.getReg("DAY").ToString();
         private static notepad _instance = null;
         private notepad()

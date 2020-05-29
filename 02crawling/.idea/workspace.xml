@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7e4a41f-5a36-4172-ae9c-ef83c74255d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/Tweet/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/.vs/kakao/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/.vs/kakao/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/.vs/kakao/v16/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/.vs/kakao/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/bin/Debug/kakao.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/bin/Debug/kakao.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/bin/Debug/kakao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/bin/Debug/kakao.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/kakao.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/kakao.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../01kakao/kakao/obj/Debug/kakao.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\04khj\01develop\01SENDTOKAKAO\02crawling\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cMAhx50NkOSuiNcNR7Fp3GH3aj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7e4a41f-5a36-4172-ae9c-ef83c74255d8" name="Default Changelist" comment="" />
+      <created>1590328211707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590328211707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="178" key="#Notifications" timestamp="1590329398213">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="178" key="#Notifications/0.0.2560.1040@0.0.2560.1040" timestamp="1590329398213" />
+    <state x="1099" y="416" key="Github.CreateGistDialog" timestamp="1590329244879">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1099" y="416" key="Github.CreateGistDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1590329244879" />
+  </component>
+</project>
