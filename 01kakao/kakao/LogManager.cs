@@ -24,5 +24,11 @@ namespace kakao
                 return _instance;
             }
         }
+        public void AddLog(string addr, string log)
+        {   
+            string path = @"..\Log\" + addr + "\addr" + DateTime.Now.Date + ".txt";
+            //StringBuilder sbLog = {0},log;
+            System.IO.File.AppendAllText(path, log.ToString());
+        }
     }
 }

@@ -30,3 +30,42 @@ D:\00 WORK\98 my\04kakao\kakaotalk\01kakao\kakao\obj\Debug\kakao.MainForm.resour
 D:\00 WORK\98 my\04kakao\kakaotalk\01kakao\kakao\obj\Debug\kakao.ProgressViewer.resources
 D:\00 WORK\98 my\04kakao\kakaotalk\01kakao\kakao\obj\Debug\kakao.SettingViewer.resources
 D:\00 WORK\98 my\04kakao\kakaotalk\01kakao\kakao\obj\Debug\kakao.csproj.GenerateResource.Cache
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csprojAssemblyReference.cache
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.MainForm.resources
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.ProgressViewer.resources
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.SettingViewer.resources
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csproj.GenerateResource.cache
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csproj.CoreCompileInputs.cache
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.exe
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.pdb
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.exe.config
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.exe
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.pdb
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csproj.CopyComplete
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.Component1.resources
+C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.Properties.Resources.resources
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.exe.config
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.exe
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.pdb
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csprojAssemblyReference.cache
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.Component1.resources
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.MainForm.resources
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.ProgressViewer.resources
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.Properties.Resources.resources
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.SettingViewer.resources
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csproj.GenerateResource.cache
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csproj.CoreCompileInputs.cache
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csproj.CopyComplete
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.exe
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.pdb
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.TreeViewer.resources
