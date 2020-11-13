@@ -13356,6 +13356,10 @@
             // 
             this.kryptonRibbonGroupButton6.TextLine1 = "Save";
             // 
+            // kryptonRibbonGroupButton3
+            // 
+            this.kryptonRibbonGroupButton3.Click += new System.EventHandler(this.Test);
+            // 
             // kryptonRibbonGroupTriple3
             // 
             this.kryptonRibbonGroupTriple3.Items.AddRange(new ComponentFactory.Krypton.Ribbon.KryptonRibbonGroupItem[] {
@@ -13398,6 +13402,7 @@
             this.kryptonRibbon1.RibbonTabs.AddRange(new ComponentFactory.Krypton.Ribbon.KryptonRibbonTab[] {
             this.kryptonRibbonTab3,
             this.kryptonRibbonTab4});
+            this.kryptonRibbon1.SelectedContext = null;
             this.kryptonRibbon1.SelectedTab = this.kryptonRibbonTab3;
             this.kryptonRibbon1.Size = new System.Drawing.Size(879, 115);
             this.kryptonRibbon1.TabIndex = 0;

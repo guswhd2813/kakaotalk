@@ -51,10 +51,6 @@ C:\00NEXUS\01_WORK\00_SOURCE\98_TIAGO\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.exe.config
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.exe
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\kakao.pdb
-D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Docking.pdb
-D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
-D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
-D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.csprojAssemblyReference.cache
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.Component1.resources
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.MainForm.resources
@@ -69,3 +65,4 @@ D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
 D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\obj\Debug\kakao.TreeViewer.resources
+D:\99_ETC\01_PERSNAL\01_SOURCE\01_KAKAO\kakaotalk\01kakao\kakao\bin\Debug\System.Data.SQLite.dll

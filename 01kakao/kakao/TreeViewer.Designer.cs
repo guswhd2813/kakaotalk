@@ -30,17 +30,9 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TreeViewer));
-            this.kryptonTreeView1 = new ComponentFactory.Krypton.Toolkit.KryptonTreeView();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+            this.kryptonTreeView = new ComponentFactory.Krypton.Toolkit.KryptonTreeView();
             this.SuspendLayout();
-            // 
-            // kryptonTreeView1
-            // 
-            this.kryptonTreeView1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.kryptonTreeView1.Location = new System.Drawing.Point(0, 0);
-            this.kryptonTreeView1.Name = "kryptonTreeView1";
-            this.kryptonTreeView1.Size = new System.Drawing.Size(363, 457);
-            this.kryptonTreeView1.TabIndex = 0;
             // 
             // imageList1
             // 
@@ -48,11 +40,19 @@
             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
             this.imageList1.Images.SetKeyName(0, "제가동(호실).jpg");
             // 
+            // kryptonTreeView
+            // 
+            this.kryptonTreeView.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.kryptonTreeView.Location = new System.Drawing.Point(0, 0);
+            this.kryptonTreeView.Name = "kryptonTreeView";
+            this.kryptonTreeView.Size = new System.Drawing.Size(363, 457);
+            this.kryptonTreeView.TabIndex = 0;
+            // 
             // TreeViewer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.kryptonTreeView1);
+            this.Controls.Add(this.kryptonTreeView);
             this.Name = "TreeViewer";
             this.Size = new System.Drawing.Size(363, 457);
             this.Load += new System.EventHandler(this.TreeViewer_Load);
@@ -61,8 +61,7 @@
         }
 
         #endregion
-
-        private ComponentFactory.Krypton.Toolkit.KryptonTreeView kryptonTreeView1;
         private System.Windows.Forms.ImageList imageList1;
+        private ComponentFactory.Krypton.Toolkit.KryptonTreeView kryptonTreeView;
     }
 }
