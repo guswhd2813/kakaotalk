@@ -11,18 +11,18 @@ namespace kakao
 {
     class DBManager
     {
-        private DBManager _DBManager = null;
-        public DBManager Getinstance()
+        private static DBManager _DBManager = null;
+        public static DBManager Getinstance
         {
-            if (_DBManager == null)
+            get
             {
-                _DBManager = new DBManager();
+                if (_DBManager == null)
+                {
+                    _DBManager = new DBManager();
+                }
+                return _DBManager;
             }
-            return _DBManager;
         }
-            
-
-
         public DataSet GetDriver()
         {
             return Sqlite();
@@ -45,7 +45,7 @@ namespace kakao
 
                 
                 //2018.03.06 Gideon #22899 인사이트 개별실행
-                DataTable dt_CHN_AREACODE = new DataTable("T_Driver");
+                DataTable dt_CHN_AREACODE = new DataTable("Driver");
                 dataAdapter.FillSchema(dt_CHN_AREACODE, SchemaType.Source);
                 foreach (DataColumn dc in dt_CHN_AREACODE.Columns)
                 {

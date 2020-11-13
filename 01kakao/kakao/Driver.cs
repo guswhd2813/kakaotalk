@@ -10,66 +10,41 @@ namespace kakao
 {
     class Driver
     {
-        private string driverName
+        #region Singleton
+        private static Driver _driver = null;
+        public static Driver _instance
         {
-            get { return this.driverName; }
-            set
+            get
             {
-                this.driverName = value;
+                if (_driver == null) _driver = new Driver();
+                return _driver;
             }
         }
-        private string driverFileName
+        #endregion
+
+
+        private Driver()
         {
-            get { return this.driverFileName; }
-            set
-            {
-                this.driverFileName = value;
-            }
+            Initialize();
         }
-        private string textSaveFile
+        private List<string> _DriverName;
+        public List<string> DriverName
         {
-            get { return this.textSaveFile; }
-            set
+            get
             {
-                this.textSaveFile = value;
-            }
-        }
-        private string chatRoomName
-        {
-            get { return this.chatRoomName; }
-            set
-            {
-                this.chatRoomName = value;
-            }
-        }
-        private string splitString
-        {
-            get { return this.splitString; }
-            set
-            {
-                this.splitString = value;
-            }
-        }
-        private string lastSendTime
-        {
-            get { return this.lastSendTime; }
-            set
-            {
-                this.lastSendTime = value;
-            }
-        }
-        private int delayTime
-        {
-            get { return this.delayTime; }
-            set
-            {
-                this.delayTime = value;
+                return _DriverName;
             }
         }
 
-
-
-
+        private void Initialize()
+        {
+            _DriverName = new List<string>();
+            foreach (object name in DBManager.Getinstance.GetDriver().Tables[0].ToString())
+            {
+                _DriverName.Add(name.ToString());
+            }
+        }
+        
 
 
     }

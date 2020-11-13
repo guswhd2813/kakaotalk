@@ -78,8 +78,7 @@ namespace kakao
 
         private void Test(object sender, EventArgs e)
         {
-            DBManager db = new DBManager();
-            db.GetDriver();
+            List<string> _str = Driver._instance.DriverName;
         }
     }
 }
