@@ -29,6 +29,8 @@ namespace kakao
         }
         #endregion
 
+        List<string> _driverName = null;
+
         private TreeViewer()
         {            
             InitializeComponent();
@@ -47,8 +49,12 @@ namespace kakao
             kryptonTreeView.TreeView.Nodes.Add("Log", "Log", 0);
 
             //Treeview  child노드 생성            
-            AddTreeNode("A", "A", 0);
-            AddTreeNode("A", "A", 0);
+            _driverName = Driver._instance.DriverName;
+            foreach (string drvName in _driverName)
+            {
+                AddTreeNode(drvName, drvName, 0);
+            }
+           
             kryptonTreeView.Refresh();
         }
         private void AddTreeNode(string _nodeName,string _viewName,int _imageidx)
@@ -65,7 +71,5 @@ namespace kakao
 
         }
 
-
-        
     }
 }

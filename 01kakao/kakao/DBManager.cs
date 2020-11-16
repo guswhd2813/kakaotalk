@@ -23,7 +23,11 @@ namespace kakao
                 return _DBManager;
             }
         }
-        public DataSet GetDriver()
+        public DataRowCollection GetDriverName()
+        {
+            return Sqlite().Tables[0].Rows;
+        }
+        public DataSet GetDriverData()
         {
             return Sqlite();
         }
