@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 
 namespace kakao
 {
@@ -39,9 +40,9 @@ namespace kakao
         private void Initialize()
         {
             _DriverName = new List<string>();
-            foreach (object name in DBManager.Getinstance.GetDriver().Tables[0].ToString())
-            {
-                _DriverName.Add(name.ToString());
+            foreach (DataRow name in DBManager.Getinstance.GetDriverName())
+            {                
+                _DriverName.Add(name.ItemArray.GetValue(0).ToString());
             }
         }
         

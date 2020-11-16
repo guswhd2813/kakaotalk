@@ -19,8 +19,8 @@ namespace kakao
     {
         private int consize;
         private int _count = 1;
-        private static ProgressViewer cPv = new ProgressViewer();
-        private static SettingViewer cSv = new SettingViewer();
+        //private static ProgressViewer cPv = new ProgressViewer();
+        //private static SettingViewer cSv = new SettingViewer();
 
         public MainForm()
         {
@@ -40,7 +40,10 @@ namespace kakao
 
         private void TreeView_NodeMouseDoubleClick(object sender, TreeNodeMouseClickEventArgs e)
         {
-            kryptonDockingManager.AddToWorkspace("Workspace", new KryptonPage[] { NewDocument() });
+            if (e.Node.Name != "Log" && e.Node.Name != "Driver")
+            
+                kryptonDockingManager.AddToWorkspace("Workspace", new KryptonPage[] { NewDocument(e) });
+            
         }
             
         private KryptonPage NewPage()
@@ -66,9 +69,13 @@ namespace kakao
             return p;
         }
 
-        private KryptonPage NewDocument()
+        private KryptonPage NewDocument(TreeNodeMouseClickEventArgs e)
         {
-            KryptonPage page = NewPage("Driver Maker ", 1, new SettingViewer());
+            KryptonPage page = null;
+            if (e.Node.Parent!= null)
+                page = NewPage(e.Node.Parent.Text+"_" + e.Node.Text, 1, new SettingViewer(e.Node.Text));
+            else
+                 page = NewPage(e.Node.Text, 1, new SettingViewer(e.Node.Text));
 
             // Document pages cannot be docked or auto hidden
             page.ClearFlags(KryptonPageFlags.DockingAllowAutoHidden | KryptonPageFlags.DockingAllowDocked);
